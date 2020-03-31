@@ -1,0 +1,27 @@
+command to start the jenkins for --ubantu ---sudo systemctl start jenkins.
+
+command to enable jenkins for ubantu ==--sudo systemctl enable jenkins.
+
+
+
+
+---------------------------------------*************************COMMANDS FOR GIT **************************----------------------------------------------
+git init    ---- to start initiallize the git in the folder(go to the perticular folder and open terminal then initillize git)
+
+git status  ---- get the status of the folder what we have changed in the folder what are remining to commit and what we can commit
+
+git add fileName with extension ------------ to add file in the git local reposetary.
+
+git commit -m "comment for information about what kind of file u are commiting"--------- to add file in the git server
+
+git add . ------to add all file in the folder
+
+
+git remote add origin url_of_the origin _ u_will_create_at_git_wepage_then _copy_url_and_paste_here------ to add origin.
+
+
+
+
+
+
+
